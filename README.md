@@ -16,7 +16,7 @@
 ---
 
 
-<span style="color:Blue">**Mahmoud Al-Dinah** : **Bachelor's degree in Computer information system.**</span>
+<span style="color:Blue">**Hello im Mahmoud Al-Dinah** : **I've graduated from Al-Zaytoonah University of Jordan I've a Bachelor's degree in Computer information system, with 2years expernice in Customer Support (helpdesk) postion**</span>
 
 **Feel free to contact me :**
 
