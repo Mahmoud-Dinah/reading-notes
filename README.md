@@ -1,4 +1,4 @@
-# <div align="center">```Reading Notes```</div>
+<div align="center">```Reading Notes```</div>
 
 
 <span style="color:red">**What Is Growth Mindset ?**</span>
