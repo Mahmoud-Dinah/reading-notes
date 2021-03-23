@@ -1,15 +1,15 @@
-<div align="center"># Reading Notes</div>
+<div align="center">#Reading Notes</div>
 
 
 <span style="color:red">**What Is Growth Mindset ?**</span>
 
 <div align="center">Individuals who believe their talents can be developed (through hard work, good strategies, and input from others) have a **growth mindset**. They tend to achieve more than those with a more **fixed** mindset (those who believe their talents are innate gifts).</div>
 
- <span style="color:red">**How to keep yourself in a growth mindset ?**</span>
+ <span style="color:green">**How to keep yourself in a growth mindset ?**</span>
 
->> 1. *through hard work* 👷
->>> 2. *good strategies* 📖
->>>> 3. *input from others* 👌
+ 1. *through hard work* 👷
+ 2. *good strategies* 📖
+ 3. *input from others* 👌
 
 
 ---
