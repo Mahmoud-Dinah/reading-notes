@@ -1,4 +1,4 @@
-# Reading Notes</div
+# Reading Notes
 
 
 <span style="color:red">**What Is Growth Mindset ?**</span>
