@@ -1,4 +1,4 @@
-<span style="color:#cc3300"># Reading Notes</span>
+# Reading Notes
 
 
 <span style="color:red">**What Is Growth Mindset ?**</span>
@@ -21,6 +21,7 @@
 **Feel free to contact me :**
 
 [Linkedin](www.linkedin.com/in/mahmoudaldinah)
+
 [GitHub](https://github.com/Mahmoud-Dinah)
 
 ![Image](https://image.freepik.com/free-vector/have-nice-day-neon-signs-style-text_118419-1376.jpg)
