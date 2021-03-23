@@ -1,4 +1,4 @@
-# Reading Notes
+<span style="color:#cc3300"># Reading Notes</span>
 
 
 <span style="color:red">**What Is Growth Mindset ?**</span>
@@ -16,11 +16,11 @@
 ---
 
 
-<span style="color:Lime">**Mahmoud Al-Dinah** : **Bachelor's degree in Computer information system.**</span>
+<span style="color:Blue">**Mahmoud Al-Dinah** : **Bachelor's degree in Computer information system.**</span>
 
 **Feel free to contact me :**
 
 [Linkedin](www.linkedin.com/in/mahmoudaldinah)
-
+[GitHub](https://github.com/Mahmoud-Dinah)
 
 ![Image](https://image.freepik.com/free-vector/have-nice-day-neon-signs-style-text_118419-1376.jpg)
