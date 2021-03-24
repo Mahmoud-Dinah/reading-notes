@@ -1,0 +1,1 @@
+## Hello, I've learned today about what Version Control is and how it help to compare changes By utilizing a Version Control System, were mistakes with files can easily be rectified.  ** Files in Git can reside in three main states: committed, modified and staged. Also I've learned how start a Git projects by Create a new repository.
