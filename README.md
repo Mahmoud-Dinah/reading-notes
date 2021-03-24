@@ -7,3 +7,4 @@
 | ----------- | ----------- |
 | read1     | [Class1](class1.md)      |
 | read2  | [Class2](class2.md)        |
+| read3  | [Class2](class3.md)        |
