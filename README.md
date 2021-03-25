@@ -5,6 +5,7 @@
 
 | Assignment      | Link |
 | ----------- | ----------- |
-| read1     | [Class1](class1.md)      |
+| read1  | [Class1](class1.md)        |
 | read2  | [Class2](class2.md)        |
 | read3  | [Class3](class3.md)        |
+| read4  | [Class4](class4.md)        |
