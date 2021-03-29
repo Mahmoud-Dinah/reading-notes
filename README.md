@@ -10,3 +10,4 @@
 | read3  | [Class3](class3.md)        |
 | read4  | [Class4](class4.md)        |
 | read5  | [Class5](class5.md)        |
+| read6  | [Class6](class6.md)        |
