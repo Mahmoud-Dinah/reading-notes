@@ -10,7 +10,7 @@
 | ----------- | ----------- |
 | read1  | [Class1](201/1.md)        |
 | read2  | [Class2](201/2.md)        |
-| read3  | [Class3](class2.3.md)        |
+| read3  | [Class3](201/3.md)        |
 | read4  | [Class4](class2.4.md)        |
 | read5  | [Class5](class2.5.md)        |
 | read6  | [Class6](class2.6.md)        |
