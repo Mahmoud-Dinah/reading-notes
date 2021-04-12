@@ -14,15 +14,8 @@
 | read4  | [Class4](201/4.md)        |
 | read5  | [Class5](201/5.md)        |
 | read6  | [Class6](201/6.md)        |
-<!-- | read7  | [Class7](class2.7.md)        |
-| read8  | [Class8](class2.8.md)        |
-| read9  | [Class9](class2.9.md)        |
-| read10  | [Class10](class2.10.md)        |
-| read11  | [Class11](class2.11.md)        |
-| read12  | [Class12](class21.2.md)        |
-| read13  | [Class13](class2.13.md)        |
-| read14  | [Class14](class2.14.md)        |
-| read15  | [Class15](class2.15.md)        | -->
+| read7  | [Class7](201/7.md)        |
+
 
 
 <span style="color:Blue">**Reading 102 Note**
