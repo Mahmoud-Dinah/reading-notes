@@ -15,7 +15,7 @@
 | read5  | [Class5](201/5.md)        |
 | read6  | [Class6](201/6.md)        |
 | read7  | [Class7](201/7.md)        |
-
+| read7  | [Class7](201/8.md)        |
 
 
 <span style="color:Blue">**Reading 102 Note**
