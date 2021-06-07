@@ -8,8 +8,8 @@
 | Assignment      | Link |
 | ----------- | ----------- |
 | read1  | [Class1](301/1.md)        |
-| read2  | [Class2](201/2.md)        |
-| read3  | [Class3](201/3.md)        |
+| read2  | [Class2](301/2.md)        |
+| read3  | [Class3](301/3.md)        |
 
 
 ------------------------------
