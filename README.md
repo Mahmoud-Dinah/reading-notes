@@ -1,9 +1,7 @@
-# Reading Notes
 
+# <span style="color:Blue">Reading Notes</span>
 
-<span style="color:Blue">**Hello im Mahmoud Al-Dinah** : **I've graduated from Al-Zaytoonah University of Jordan faculty of Information Technology I've a Bachelor's degree in Computer information system, with 2years expernice in Customer Support (helpdesk)**</span>
-
-<span style="color:red">**Reading 301 Note**
+<span style="color:red">**Code 301 - Intermediate Software Development**
 
 | Assignment      | Link |
 | ----------- | ----------- |
@@ -18,7 +16,7 @@
 
 
 
-<span style="color:red">**Reading 201 Note**
+<span style="color:red">**Code 201 - Foundations of Software Development**
 
 | Assignment      | Link |
 | ----------- | ----------- |
