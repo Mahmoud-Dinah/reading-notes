@@ -1,5 +1,5 @@
 
-# <span style="color:Blue">Reading Notes</span><span style="color:red"> **Code 401 - Intermediate Software Development**
+# <span style="color:Blue">Reading Notes</span><span style="color:red">**Code 401 - Advanced Software Development**
 
 | Assignment      | Link |
 | ----------- | ----------- |
