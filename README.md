@@ -1,7 +1,26 @@
 
-# <span style="color:Blue">Reading Notes</span>
+# <span style="color:Blue">Reading Notes</span><span style="color:red"> **Code 401 - Intermediate Software Development**
 
-<span style="color:red">**Code 301 - Intermediate Software Development**
+| Assignment      | Link |
+| ----------- | ----------- |
+| read1  | [Class1](401/1.md)        |
+| read2  | [Class2](401/2.md)        |
+| read3  | [Class3](401/3.md)        |
+| read4  | [Class4](401/4.md)        |
+| read5  | [Class5](401/5.md)        |
+| read6  | [Class6](401/6.md)        |
+| read7  | [Class7](401/7.md)        |
+| read8  | [Class8](401/8.md)        |
+| read9  | [Class9](401/9.md)        |
+| read10 | [Class10](401/11.md)     |
+| read11 | [Class11](401/11.md)     |
+| read12 | [Class12](401/12.md)     |
+| read13 | [Class13](401/13.md)     |
+| read14 | [Class14](401/14.md)     |
+
+------------------------------
+
+<span style="color:red"> **Code 301 - Intermediate Software Development**
 
 | Assignment      | Link |
 | ----------- | ----------- |
