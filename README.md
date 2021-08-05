@@ -12,7 +12,7 @@
 | read7  | [Class7](401/07.md)        |
 | read8  | [Class8](401/08.md)        |
 | read9  | [Class9](401/09.md)        |
-| read10 | [Class10](401/11.md)     |
+| read10 | [Class10](401/10.md)     |
 | read11 | [Class11](401/11.md)     |
 | read12 | [Class12](401/12.md)     |
 | read13 | [Class13](401/13.md)     |
