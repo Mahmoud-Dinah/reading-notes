@@ -3,22 +3,22 @@
 
 | Assignment      | Link |
 | ----------- | ----------- |
-| read1  | [Class1](401/1.md)        |
-| read2  | [Class2](401/02.md)        |
-| read3  | [Class3](401/03.md)        |
-| read4  | [Class4](401/04.md)        |
-| read5  | [Class5](401/05.md)        |
-| read6  | [Class6](401/06.md)        |
-| read7  | [Class7](401/07.md)        |
-| read8  | [Class8](401/08.md)        |
-| read9  | [Class9](401/09.md)        |
+| read1  | [Class1](401/1.md)       |
+| read2  | [Class2](401/02.md)      |
+| read3  | [Class3](401/03.md)      |
+| read4  | [Class4](401/04.md)      |
+| read5  | [Class5](401/05.md)      |
+| read6  | [Class6](401/06.md)      |
+| read7  | [Class7](401/07.md)      |
+| read8  | [Class8](401/08.md)      |
+| read9  | [Class9](401/09.md)      |
 | read10 | [Class10](401/10.md)     |
 | read11 | [Class11](401/11.md)     |
 | read12 | [Class12](401/12.md)     |
 | read13 | [Class13](401/13.md)     |
 | read14 | [Class14](401/14.md)     |
-| read15 | [Class14](401/15.md)     |
-| read16 | [Class14](401/16.md)     |
+| read15 | [Class15](401/15.md)     |
+| read16 | [Class16](401/16.md)     |
 
 ------------------------------
 
