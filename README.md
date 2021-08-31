@@ -1,5 +1,5 @@
 
-# <span style="color:Blue">Reading Notes</span><span style="color:red">**Code 401 - Advanced Software Development**
+# <span style="color:Blue">Reading Notes</span><span style="color:red">Code 401 - Advanced Software Development
 
 | Assignment      | Link |
 | ----------- | ----------- |
@@ -25,10 +25,13 @@
 | read20 | [Class20](401/20.md)     |
 | read26 | [Class26](401/26.md)     |
 | read27 | [Class27](401/27.md)     |
+| read28 | [Class28](401/28.md)     |
+| read29 | [Class29](401/29.md)     |
+| read30 | [Class30](401/30.md)     |
 
 ------------------------------
 
-<span style="color:red"> **Code 301 - Intermediate Software Development**
+<span style="color:red"> Code 301 - Intermediate Software Development
 
 | Assignment      | Link |
 | ----------- | ----------- |
@@ -51,7 +54,7 @@
 
 
 
-<span style="color:red">**Code 201 - Foundations of Software Development**
+<span style="color:red"> Code 201 - Foundations of Software Development
 
 | Assignment      | Link |
 | ----------- | ----------- |
@@ -72,7 +75,7 @@
 | read14b | [Class14b](201/14b.md)      |
 
 
-<span style="color:Blue">**Reading 102 Note**
+<span style="color:Blue"> Reading 102 Note
 
 | Assignment      | Link |
 | ----------- | ----------- |
