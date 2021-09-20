@@ -39,7 +39,11 @@
 | read39 | [Class39](401/39.md)     |
 | read40 | [Class40](401/40.md)     |
 | read41 | [Class41](401/41.md)     |
+| read41 | [Class41](401/42.md)     |
 | EthicsInTech | [EthicsInTech](401/EthicsInTech.md)     |
+| read41 | [Class41](401/43.md)     |
+| read41 | [Class41](401/44.md)     |
+
 
 ------------------------------
 
